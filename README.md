@@ -4,7 +4,7 @@ This repository contains a PyTorch implementation of ChartPointFlow on 2D synthe
 
 ## Introduction
   <div align="center">
-  <img src="https://github.com/kimura-12/CPF_edit/blob/master/assets/sequence.jpg" width=65%>
+  <img src="https://github.com/kimura-12/ChartPointFlow/blob/master/assets/sequence.jpg" width=65%>
   </div>
 
   Point clouds have attracted attention as a representation of an object's surface.
